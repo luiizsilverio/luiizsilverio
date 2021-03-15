@@ -1,8 +1,10 @@
 ### Olá 👋, meu nome é Luiz.
 
 Sou um desenvolvedor Full-stack que estuda e trabalha com tecnologia.
-Formado em gestão de T.I, mas prefiro pôr a mão na massa.
+Formado em gestão de T.I, programador Delphi, javascript, HTML, CSS, Less, NodeJS, ReactJS, React Native, além de outras libs e frameworks.
 Moro em Campinas/SP, e você pode me encontrar no (linkedin)
+
+Alguns projetos disponíveis para visualização: (links)
 
 <!--
 **luiizsilverio/luiizsilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
