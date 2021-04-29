@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor Delphi há muito tempo e, de 5 anos para cá, tenho dedicado esforços para me tornar um programador Front-End / Fullstack.<br/>
 Moro em Campinas/SP e sou formado em Gestão de T.I (e Letras também).<br/>
-Também fiz três anos de Análise de Sistemas (incompleto).
+Também fiz três anos de Análise de Sistemas (incompleto).<br/>
 Fiz diversos cursos de Front-End, Javascript, Typescript, ReactJs, React Native, NodeJs.<br/>
 Já utilizei vários frameworks e libs dentro desse universo Javascript.<br/>
 Continuo estudando e participando de maratonas Full-Stack.<br/>
