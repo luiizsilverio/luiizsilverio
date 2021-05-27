@@ -1,6 +1,6 @@
 ## Olá 👋, meu nome é Luiz.
 
-Sou desenvolvedor Delphi há anos e, de 5 anos para cá, tenho dedicado esforços para me tornar um programador Front-End / Fullstack.<br/>
+Sou desenvolvedor Delphi há anos e, de alguns anos para cá, tenho dedicado esforços para me tornar um programador Front-End / Fullstack.<br/>
 Moro em Campinas/SP e sou formado em Gestão de T.I (e Letras também).<br/>
 Também fiz três anos de Análise de Sistemas (incompleto).<br/>
 Fiz diversos cursos de Front-End, Javascript, Typescript, ReactJs, NodeJs e React Native.<br/>
