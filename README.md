@@ -8,6 +8,34 @@ Já utilizei vários frameworks e libs dentro desse universo Javascript.<br/>
 Continuo estudando e participando de maratonas Full-Stack.<br/>
 Para maiores informações sobre minha formação, cursos realizados e atividades, acesse meu LinkedIn.
 
+Alguns projetos interessantes que desenvolvi nos últimos meses:
+| Nome do Projeto | Linguagem |
+|------|-------|
+| [Happy](https://github.com/luiizsilverio/happy) | Node + Javascript + Handlebars + SQLite |
+| [Happy-react](https://github.com/luiizsilverio/happy-react) | React + Typescript |
+| [Happy-react-native](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |
+| Jobscalc | Node + Javascript + EJS + SQLite |
+| Alurakut | React / Next |
+| AppFinances | React Native / Expo |
+| Podcastr | React / Next + Typescript |
+| Rentx | React Native + Typescript |
+| mySkills | |
+| letmeask | |
+| ig-news | |
+| dashgo | |
+| rocket.q | |
+| dev-finances | |
+| moveit-next | |
+| todo-list | |
+| github-search | |
+| js-dia-noite | |
+| js-exchange-rate | |
+| js-weather | |
+| js-quiz-livros | |
+| devcommerce | |
+| dtmoney | |
+
+
 ## 📫 Contato
 
 * E-mail: [**luiiz.silverio@gmail.com**](mailto:luiiz.silverio@gmail.com)
