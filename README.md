@@ -8,7 +8,7 @@ Já utilizei vários frameworks e libs dentro desse universo Javascript.<br/>
 Continuo estudando e participando de maratonas Full-Stack.<br/>
 Para maiores informações sobre minha formação, cursos realizados e atividades, acesse meu LinkedIn.
 
-Alguns projetos interessantes que desenvolvi nos últimos meses:
+🤩 Alguns projetos interessantes que desenvolvi nos últimos meses:
 | Nome do Projeto | Linguagem |
 |------|-------|
 | [Happy](https://github.com/luiizsilverio/happy) | Node + Javascript + Handlebars + SQLite |
