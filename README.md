@@ -29,10 +29,10 @@ Para maiores informações sobre minha formação, cursos realizados e atividade
 | [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
 | [Dtmoney](https://github.com/luiizsilverio/dtmoney) | React + Typescript |
 | [Devcommerce](https://github.com/luiizsilverio/devcommerce) | React / Next + Typescript + Prismic |
-| MySkills | |
-| ig-news | |
-| dev-finances | |
-| github-search | |
+| [Github-Search](https://github.com/luiizsilverio/github-search) | React + Typescript |
+| ig-news | React / Next + Typescript + Prismic |
+| dev-finances | Javascript |
+| MySkills | React Native |
 
 
 ## 📫 Contato
