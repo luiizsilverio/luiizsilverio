@@ -23,17 +23,16 @@ Alguns projetos interessantes que desenvolvi nos últimos meses:
 | [Moveit-Next](https://github.com/luiizsilverio/moveit-next) | React / Next + Typescript |
 | [Dashgo](https://github.com/luiizsilverio/dashgo) | React / Next + ChakraUI + ApexCharts |
 | [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + Javascript + EJS + SQLite |
+| [Todo-list](https://github.com/luiizsilverio/todo-list) | React Native |
+| [Js-Exchange-Rate](https://github.com/luiizsilverio/js-exchange-rate) | Javascript |
+| [Js-Weather](https://github.com/luiizsilverio/js-weather) | Javascript |
+| [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
+| [Dtmoney](https://github.com/luiizsilverio/dtmoney) | React + Typescript |
+| [Devcommerce](https://github.com/luiizsilverio/devcommerce) | React / Next + Typescript + Prismic |
 | MySkills | |
 | ig-news | |
 | dev-finances | |
-| todo-list | |
 | github-search | |
-| js-dia-noite | |
-| js-exchange-rate | |
-| js-weather | |
-| js-quiz-livros | |
-| devcommerce | |
-| dtmoney | |
 
 
 ## 📫 Contato
