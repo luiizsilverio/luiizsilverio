@@ -14,18 +14,18 @@ Alguns projetos interessantes que desenvolvi nos últimos meses:
 | [Happy](https://github.com/luiizsilverio/happy) | Node + Javascript + Handlebars + SQLite |
 | [Happy-react](https://github.com/luiizsilverio/happy-react) | React + Typescript |
 | [Happy-react-native](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |
-| Jobscalc | Node + Javascript + EJS + SQLite |
-| Alurakut | React / Next |
-| AppFinances | React Native / Expo |
-| Podcastr | React / Next + Typescript |
-| Rentx | React Native + Typescript |
-| mySkills | |
-| letmeask | |
+| [Jobscalc](https://github.com/luiizsilverio/jobscalc) | Node + Javascript + EJS + SQLite |
+| [Alurakut](https://github.com/luiizsilverio/alurakut) | React / Next |
+| [AppFinances](https://github.com/luiizsilverio/appfinances) | React Native / Expo |
+| [Podcastr](https://github.com/luiizsilverio/podcastr) | React / Next + Typescript |
+| [Rentx](https://github.com/luiizsilverio/rentx) | React Native / Expo + Typescript |
+| [Letmeask](https://github.com/luiizsilverio/letmeask) | React + Typescript + Firebase |
+| [Moveit-Next](https://github.com/luiizsilverio/moveit-next) | React / Next + Typescript |
+| [Dashgo](https://github.com/luiizsilverio/dashgo) | React / Next + ChakraUI + ApexCharts |
+| [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + Javascript + EJS + SQLite |
+| MySkills | |
 | ig-news | |
-| dashgo | |
-| rocket.q | |
 | dev-finances | |
-| moveit-next | |
 | todo-list | |
 | github-search | |
 | js-dia-noite | |
