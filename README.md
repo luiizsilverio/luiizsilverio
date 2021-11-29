@@ -12,6 +12,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 🤩 Alguns projetos interessantes que desenvolvi nos últimos meses:
 | Nome do Projeto | Linguagens |
 |------|-------|
+| [App-Beer](https://github.com/luiizsilverio/app-beer-json-server) | React Native / Expo + Typescript |
 | [Happy](https://github.com/luiizsilverio/happy) | Node + Javascript + Handlebars + SQLite |
 | [Happy-react](https://github.com/luiizsilverio/happy-react) | React + Typescript |
 | [Happy-react-native](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |
