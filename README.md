@@ -23,6 +23,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 | [AppFinances](https://github.com/luiizsilverio/appfinances) | React Native / Expo |
 | [Podcastr](https://github.com/luiizsilverio/podcastr) | React / Next + Typescript |
 | [Rentx](https://github.com/luiizsilverio/rentx) | React Native / Expo + Typescript |
+| [My-Trips](https://github.com/luiizsilverio/my-trips) | React / Next + Typescript + Leaflet |
 | [My-Dashboard](https://github.com/luiizsilverio/my-dashboard) | React + Typescript + Recharts |
 | [Letmeask](https://github.com/luiizsilverio/letmeask) | React + Typescript + Firebase |
 | [Moveit-Next](https://github.com/luiizsilverio/moveit-next) | React / Next + Typescript |
