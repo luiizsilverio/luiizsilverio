@@ -19,11 +19,12 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 | [Do-while-react](https://github.com/luiizsilverio/do-while-react) | React + Vite + Typescript |
 | [App-heat](https://github.com/luiizsilverio/app-heat) | React Native / Expo + Typescript |
 | [Jobscalc](https://github.com/luiizsilverio/jobscalc) | Node + Javascript + EJS + SQLite |
-| [Alurakut](https://github.com/luiizsilverio/alurakut) | React / Next |
+| [Alurakut](https://github.com/luiizsilverio/alurakut) | Javascript + React / Next |
+| [Aluracord](https://github.com/luiizsilverio/aluracord) | Javascript + React / Next + Supabase |
 | [AppFinances](https://github.com/luiizsilverio/appfinances) | React Native / Expo |
 | [Podcastr](https://github.com/luiizsilverio/podcastr) | React / Next + Typescript |
 | [Rentx](https://github.com/luiizsilverio/rentx) | React Native / Expo + Typescript |
-| [My-Trips](https://github.com/luiizsilverio/my-trips) | React / Next + Typescript + Leaflet |
+| [My-Trips 🗺](https://github.com/luiizsilverio/my-trips) | React / Next + Typescript + Leaflet + GraphCMS |
 | [My-Dashboard](https://github.com/luiizsilverio/my-dashboard) | React + Typescript + Recharts |
 | [Letmeask](https://github.com/luiizsilverio/letmeask) | React + Typescript + Firebase |
 | [Moveit-Next](https://github.com/luiizsilverio/moveit-next) | React / Next + Typescript |
