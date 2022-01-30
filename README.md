@@ -14,6 +14,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 |------|-------|
 | [App-Beer 🍻](https://github.com/luiizsilverio/app-beer-json-server) | React Native / Expo + Typescript |
 | [Happy 🤗](https://github.com/luiizsilverio/happy) | Node + Javascript + Handlebars + SQLite |
+| [Happy-back](https://github.com/luiizsilverio/happy-back) | Node + SQLite + TypeORM + Multer |
 | [Happy-react](https://github.com/luiizsilverio/happy-react) | React + Typescript |
 | [Happy-react-native](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |
 | [Do-while-react](https://github.com/luiizsilverio/do-while-react) | React + Vite + Typescript |
