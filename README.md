@@ -28,7 +28,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 | [My-Trips 🗺](https://github.com/luiizsilverio/my-trips) | React / Next + Typescript + Leaflet + GraphCMS |
 | [My-Dashboard](https://github.com/luiizsilverio/my-dashboard) | React + Typescript + Recharts |
 | [Letmeask](https://github.com/luiizsilverio/letmeask) | React + Typescript + Firebase |
-| [Notes-Mongo_🍃](https://github.com/luiizsilverio/notes_mongo) | Node + Javascript + Handlebars + MongoDB |
+| [Notes-Mongo 🍃](https://github.com/luiizsilverio/notes_mongo) | Node + Javascript + Handlebars + MongoDB |
 | [Moveit-Next](https://github.com/luiizsilverio/moveit-next) | React / Next + Typescript |
 | [Dashgo](https://github.com/luiizsilverio/dashgo) | React / Next + ChakraUI + ApexCharts |
 | [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + Javascript + EJS + SQLite |
