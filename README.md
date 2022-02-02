@@ -36,7 +36,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 | [Js-Exchange-Rate](https://github.com/luiizsilverio/js-exchange-rate) | Javascript |
 | [Js-Weather](https://github.com/luiizsilverio/js-weather) | Javascript |
 | [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
-| [Dtmoney](https://github.com/luiizsilverio/dtmoney) | React + Typescript |
+| [Dt-Money 💰](https://github.com/luiizsilverio/dtmoney) | React + Typescript |
 | [Devcommerce](https://github.com/luiizsilverio/devcommerce) | React / Next + Typescript + Prismic |
 | [Github-Search](https://github.com/luiizsilverio/github-search) | React + Typescript |
 | [Api-JWT](https://github.com/luiizsilverio/node-typescript) | Node + Typescript + SQLite + Knex |
