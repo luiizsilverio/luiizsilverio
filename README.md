@@ -26,7 +26,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 | [Podcastr](https://github.com/luiizsilverio/podcastr) | React / Next + Typescript |
 | [Rentx](https://github.com/luiizsilverio/rentx) | React Native / Expo + Typescript |
 | [My-Trips 🗺](https://github.com/luiizsilverio/my-trips) | React / Next + Typescript + Leaflet + GraphCMS |
-| [My-Dashboard](https://github.com/luiizsilverio/my-dashboard) | React + Typescript + Recharts |
+| [My-Dashboard 📊](https://github.com/luiizsilverio/my-dashboard) | React + Typescript + Recharts |
 | [Letmeask](https://github.com/luiizsilverio/letmeask) | React + Typescript + Firebase |
 | [Notes-Mongo 🍃](https://github.com/luiizsilverio/notes_mongo) | Node + Javascript + Handlebars + MongoDB |
 | [Moveit-Next](https://github.com/luiizsilverio/moveit-next) | React / Next + Typescript |
