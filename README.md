@@ -44,6 +44,9 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   <a href="https://lesscss.org/usage/" target="_blank" rel="noreferrer"> 
     <img src="https://i1.wp.com/www.casamidia.com.br/wp-content/uploads/2016/03/less-logo.png?ssl=1" alt="less" width="40" height="40"/> 
   </a>
+  <a href="https://typeorm.io/#/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm" width="40" height="40"/> 
+  </a>
   <a href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" alt="delphi" width="40" height="40"/> 
   </a>
