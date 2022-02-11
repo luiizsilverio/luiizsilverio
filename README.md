@@ -64,6 +64,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 | Nome do Projeto | Linguagens |
 |------|-------|
 | [App-Beer 🍻](https://github.com/luiizsilverio/app-beer-json-server) | React Native / Expo + Typescript |
+| [My-Beer 🍺](https://github.com/luiizsilverio/web-beer) | React / Next + Typescript + Recharts |
 | [Happy 🤗](https://github.com/luiizsilverio/happy) | Node + Javascript + Handlebars + SQLite |
 | [Happy-back](https://github.com/luiizsilverio/happy-back) | Node + SQLite + TypeORM + Multer |
 | [Happy-react](https://github.com/luiizsilverio/happy-react) | React + Typescript |
