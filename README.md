@@ -92,6 +92,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 | [Devcommerce](https://github.com/luiizsilverio/devcommerce) | React / Next + Typescript + Prismic |
 | [Github-Search](https://github.com/luiizsilverio/github-search) | React + Typescript |
 | [Api-JWT](https://github.com/luiizsilverio/node-typescript) | Node + Typescript + SQLite + Knex |
+| [Api-Adonis](https://github.com/luiizsilverio/adonis) | AdonisJS + Node + SQLite |
 | ig-news | React / Next + Typescript + Prismic |
 | dev-finances | Javascript |
 | MySkills | React Native |
