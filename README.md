@@ -93,6 +93,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 | [Github-Search](https://github.com/luiizsilverio/github-search) | React + Typescript |
 | [Api-JWT](https://github.com/luiizsilverio/node-typescript) | Node + Typescript + SQLite + Knex |
 | [Api-Adonis](https://github.com/luiizsilverio/adonis) | AdonisJS + Node + SQLite |
+| [Partytime](https://github.com/luiizsilverio/partytime) | Node + Mongoose + Multer |
 | ig-news | React / Next + Typescript + Prismic |
 | dev-finances | Javascript |
 | MySkills | React Native |
