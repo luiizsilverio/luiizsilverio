@@ -67,52 +67,72 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 ## Portfólio
 
 🤩 Alguns projetos interessantes que desenvolvi nos últimos meses:
-<details>
-  <summary>React / Next</summary>
+<details open>
+  <summary><h3>React / Next<h3></summary>
+  
   | Nome do Projeto | Linguagens |
   |------|-------|
   | [My-Beer 🍺](https://github.com/luiizsilverio/web-beer) | React + Next + Typescript + Recharts |
   | [Happy-react](https://github.com/luiizsilverio/happy-react) | React + Typescript |
   | [Do-while-react](https://github.com/luiizsilverio/do-while-react) | React + Vite + Typescript |
+  | [Alurakut](https://github.com/luiizsilverio/alurakut) | Javascript + React + Next + JWT |
+  | [Aluracord](https://github.com/luiizsilverio/aluracord) | Javascript + React + Next + Supabase |
+  | [Podcastr](https://github.com/luiizsilverio/podcastr) | React + Next + Typescript |
+  | [My-Trips 🗺](https://github.com/luiizsilverio/my-trips) | React + Next + Typescript + Leaflet + GraphCMS |
+  | [My-Dashboard 📊](https://github.com/luiizsilverio/my-dashboard) | React + Typescript + Recharts |
+  | [Letmeask](https://github.com/luiizsilverio/letmeask) | React + Typescript + Firebase |
+  | [Moveit-Next](https://github.com/luiizsilverio/moveit-next) | React + Next + Typescript |
+  | [Dashgo](https://github.com/luiizsilverio/dashgo) | React / Next + ChakraUI + ApexCharts |
+  | [Portas](https://github.com/luiizsilverio/react-portas) | React + Next + Typescript |
+  | [Dt-Money 💰](https://github.com/luiizsilverio/dtmoney) | React + Typescript |
+  | [Devcommerce](https://github.com/luiizsilverio/devcommerce) | React + Next + Typescript + Prismic |
+  | [Github-Search](https://github.com/luiizsilverio/github-search) | React + Typescript |
+  | ig-news | React / Next + Typescript + Prismic |
+    
 </details>  
 
-| Nome do Projeto | Linguagens |
-|------|-------|
-| [App-Beer 🍻](https://github.com/luiizsilverio/app-beer-json-server) | React Native / Expo + Typescript |
-| [My-Beer 🍺](https://github.com/luiizsilverio/web-beer) | React + Next + Typescript + Recharts |
-| [Happy 🤗](https://github.com/luiizsilverio/happy) | Node + Javascript + Handlebars + SQLite |
-| [Happy-back](https://github.com/luiizsilverio/happy-back) | Node + SQLite + TypeORM + Multer |
-| [Happy-react](https://github.com/luiizsilverio/happy-react) | React + Typescript |
-| [Happy-react-native](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |
-| [Do-while-react](https://github.com/luiizsilverio/do-while-react) | React + Vite + Typescript |
-| [App-heat](https://github.com/luiizsilverio/app-heat) | React Native / Expo + Typescript |
-| [Jobscalc](https://github.com/luiizsilverio/jobscalc) | Node + Javascript + EJS + SQLite |
-| [Alurakut](https://github.com/luiizsilverio/alurakut) | Javascript + React + Next + JWT |
-| [Aluracord](https://github.com/luiizsilverio/aluracord) | Javascript + React + Next + Supabase |
-| [AppFinances](https://github.com/luiizsilverio/appfinances) | React Native / Expo |
-| [Podcastr](https://github.com/luiizsilverio/podcastr) | React + Next + Typescript |
-| [Rentx](https://github.com/luiizsilverio/rentx) | React Native / Expo + Typescript |
-| [My-Trips 🗺](https://github.com/luiizsilverio/my-trips) | React + Next + Typescript + Leaflet + GraphCMS |
-| [My-Dashboard 📊](https://github.com/luiizsilverio/my-dashboard) | React + Typescript + Recharts |
-| [Letmeask](https://github.com/luiizsilverio/letmeask) | React + Typescript + Firebase |
-| [Notes-Mongo 🍃](https://github.com/luiizsilverio/notes_mongo) | Node + Javascript + Handlebars + MongoDB |
-| [Moveit-Next](https://github.com/luiizsilverio/moveit-next) | React + Next + Typescript |
-| [Dashgo](https://github.com/luiizsilverio/dashgo) | React / Next + ChakraUI + ApexCharts |
-| [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + Javascript + EJS + SQLite |
-| [Portas](https://github.com/luiizsilverio/react-portas) | React + Next + Typescript |
-| [Todo-list](https://github.com/luiizsilverio/todo-list) | React Native |
-| [Js-Exchange-Rate](https://github.com/luiizsilverio/js-exchange-rate) | Javascript |
-| [Js-Weather](https://github.com/luiizsilverio/js-weather) | Javascript |
-| [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
-| [Dt-Money 💰](https://github.com/luiizsilverio/dtmoney) | React + Typescript |
-| [Devcommerce](https://github.com/luiizsilverio/devcommerce) | React + Next + Typescript + Prismic |
-| [Github-Search](https://github.com/luiizsilverio/github-search) | React + Typescript |
-| [Api-JWT](https://github.com/luiizsilverio/node-typescript) | Node + Typescript + SQLite + Knex |
-| [Api-Adonis](https://github.com/luiizsilverio/adonis) | AdonisJS + Node + SQLite |
-| [Partytime](https://github.com/luiizsilverio/partytime) | Node + Mongoose + Multer |
-| ig-news | React / Next + Typescript + Prismic |
-| dev-finances | Javascript |
-| MySkills | React Native |
+<details open>
+  <summary><h3>React Native<h3></summary>
+    
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [App-Beer 🍻](https://github.com/luiizsilverio/app-beer-json-server) | React Native / Expo + Typescript |
+  | [Happy-react-native](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |
+  | [App-heat](https://github.com/luiizsilverio/app-heat) | React Native / Expo + Typescript |
+  | [AppFinances](https://github.com/luiizsilverio/appfinances) | React Native / Expo |
+  | [Rentx](https://github.com/luiizsilverio/rentx) | React Native / Expo + Typescript |
+  | [Todo-list](https://github.com/luiizsilverio/todo-list) | React Native |
+  | MySkills | React Native |    
+    
+</details>      
+    
+<details open>
+  <summary><h3>Node.JS<h3></summary>
+    
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [Happy 🤗](https://github.com/luiizsilverio/happy) | Node + Javascript + Handlebars + SQLite |
+  | [Happy-back](https://github.com/luiizsilverio/happy-back) | Node + SQLite + TypeORM + Multer |
+  | [Jobscalc](https://github.com/luiizsilverio/jobscalc) | Node + Javascript + EJS + SQLite |
+  | [Notes-Mongo 🍃](https://github.com/luiizsilverio/notes_mongo) | Node + Javascript + Handlebars + MongoDB |
+  | [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + Javascript + EJS + SQLite |
+  | [Api-JWT](https://github.com/luiizsilverio/node-typescript) | Node + Typescript + SQLite + Knex |
+  | [Api-Adonis](https://github.com/luiizsilverio/adonis) | AdonisJS + Node + SQLite |
+  | [Partytime](https://github.com/luiizsilverio/partytime) | Node + Mongoose + Multer |
+  
+</details>      
+    
+<details open>
+  <summary><h3>Javascript<h3></summary>
+    
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [Js-Exchange-Rate](https://github.com/luiizsilverio/js-exchange-rate) | Javascript |
+  | [Js-Weather](https://github.com/luiizsilverio/js-weather) | Javascript |
+  | [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
+  | dev-finances | Javascript |
+    
+</details>             
 
 ## 📫 Contato
 
