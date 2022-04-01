@@ -67,6 +67,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 ## Portfólio
 
 🤩 Alguns projetos interessantes que desenvolvi nos últimos meses:
+
 <details open>
   <summary><h3>React / Next<h3></summary>
   
@@ -134,6 +135,8 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
     
 </details>             
 
+    
+    
 ## 📫 Contato
 
 * E-mail: [**luiiz.silverio@gmail.com**](mailto:luiiz.silverio@gmail.com)
