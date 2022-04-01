@@ -74,7 +74,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | Nome do Projeto | Linguagens |
   |------|-------|
   | [My-Beer 🍺](https://github.com/luiizsilverio/web-beer) | React + Next + Typescript + Recharts |
-  | [Happy-react](https://github.com/luiizsilverio/happy-react) | React + Typescript |
+  | [Happy-react 🤗](https://github.com/luiizsilverio/happy-react) | React + Typescript |
   | [Do-while-react](https://github.com/luiizsilverio/do-while-react) | React + Vite + Typescript |
   | [Alurakut](https://github.com/luiizsilverio/alurakut) | Javascript + React + Next + JWT |
   | [Aluracord](https://github.com/luiizsilverio/aluracord) | Javascript + React + Next + Supabase |
@@ -98,10 +98,10 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | Nome do Projeto | Linguagens |
   |------|-------|
   | [App-Beer 🍻](https://github.com/luiizsilverio/app-beer-json-server) | React Native / Expo + Typescript |
-  | [Happy-react-native](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |
+  | [Happy-react-native 🤗](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |
   | [App-heat](https://github.com/luiizsilverio/app-heat) | React Native / Expo + Typescript |
   | [AppFinances](https://github.com/luiizsilverio/appfinances) | React Native / Expo |
-  | [Rentx](https://github.com/luiizsilverio/rentx) | React Native / Expo + Typescript |
+  | [Rentx 🚗](https://github.com/luiizsilverio/rentx) | React Native / Expo + Typescript |
   | [Todo-list](https://github.com/luiizsilverio/todo-list) | React Native |
   | MySkills | React Native |    
     
@@ -135,7 +135,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
     
 </details>             
 
-    
+<br />
     
 ## 📫 Contato
 
