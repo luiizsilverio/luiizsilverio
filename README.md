@@ -38,12 +38,15 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mongodb" width="40" height="40"/> 
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
   <a href="https://lesscss.org/usage/" target="_blank" rel="noreferrer"> 
     <img src="https://i1.wp.com/www.casamidia.com.br/wp-content/uploads/2016/03/less-logo.png?ssl=1" alt="less" width="40" height="40"/> 
   </a>
+  <a href="https://lesscss.org/usage/" target="_blank" rel="noreferrer"> 
+    <img src="https://images.opencollective.com/tailwindcss/5cfb17e/logo/256.png" alt="Tailwind CSS" width="40" height="40"/> 
+  </a>  
   <a href="https://typeorm.io/#/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/20165699" alt="typeorm" width="40" height="40"/> 
   </a>
