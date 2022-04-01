@@ -67,6 +67,15 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 ## Portfólio
 
 🤩 Alguns projetos interessantes que desenvolvi nos últimos meses:
+<details>
+  <summary>React / Next</summary>
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [My-Beer 🍺](https://github.com/luiizsilverio/web-beer) | React + Next + Typescript + Recharts |
+  | [Happy-react](https://github.com/luiizsilverio/happy-react) | React + Typescript |
+  | [Do-while-react](https://github.com/luiizsilverio/do-while-react) | React + Vite + Typescript |
+</details>  
+
 | Nome do Projeto | Linguagens |
 |------|-------|
 | [App-Beer 🍻](https://github.com/luiizsilverio/app-beer-json-server) | React Native / Expo + Typescript |
