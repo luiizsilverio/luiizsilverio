@@ -122,6 +122,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + Javascript + EJS + SQLite |
   | [Api-JWT](https://github.com/luiizsilverio/node-typescript) | Node + Typescript + SQLite + Knex |
   | [Api-Adonis](https://github.com/luiizsilverio/adonis) | AdonisJS + Node + SQLite |
+  | [Mongo-GraphQL-Clientes](https://github.com/luiizsilverio/mongo-graphql-clientes) | Node + GraphQL + MongoDB |
   | [Partytime](https://github.com/luiizsilverio/partytime) | Node + Mongoose + Multer |
   
 </details>      
