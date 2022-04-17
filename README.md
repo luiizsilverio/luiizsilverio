@@ -81,6 +81,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Podcastr](https://github.com/luiizsilverio/podcastr) | React + Next + Typescript |
   | [My-Trips 🗺](https://github.com/luiizsilverio/my-trips) | React + Next + Typescript + Leaflet + GraphCMS |
   | [My-Dashboard 📊](https://github.com/luiizsilverio/my-dashboard) | React + Typescript + Recharts |
+  | [My-Events 🍷](https://github.com/luiizsilverio/eventos) | React + Bootstrap + Firebase + Redux |
   | [Letmeask](https://github.com/luiizsilverio/letmeask) | React + Typescript + Firebase |
   | [Moveit-Next](https://github.com/luiizsilverio/moveit-next) | React + Next + Typescript |
   | [Dashgo](https://github.com/luiizsilverio/dashgo) | React / Next + ChakraUI + ApexCharts |
