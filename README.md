@@ -136,6 +136,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Exchange-Rate](https://github.com/luiizsilverio/js-exchange-rate) | Javascript |
   | [Js-Weather](https://github.com/luiizsilverio/js-weather) | Javascript |
   | [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
+  | [My-Calc](https://github.com/luiizsilverio/my-calc) | Javascript |
   | dev-finances | Javascript |
     
 </details>             
