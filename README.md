@@ -6,7 +6,7 @@ Também fiz três anos de Análise de Sistemas (incompleto).<br/>
 Fiz diversos cursos de Front-End, Javascript, Typescript, ReactJs, NodeJs e React Native.<br/>
 Já utilizei vários frameworks e libs dentro desse universo Javascript.<br/>
 Continuo estudando e participando de maratonas Full-Stack.<br/>
->Para maiores informações sobre minha formação, cursos realizados e atividades, acesse meu LinkedIn.
+>Para maiores informações sobre minha formação, cursos realizados e atividades, acesse meu [Linkedin](https://www.linkedin.com/in/luiz-silv%C3%A9rio-de-oliveira-6b6067210/).
 
 ## Linguagens e ferramentas
 
