@@ -23,7 +23,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJS" width="40" height="40" />
+    <img src="https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg" alt="NodeJS" width="40" height="40" />
   </a>
   <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="40" height="40" />
