@@ -79,6 +79,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Happy-react 🤗](https://github.com/luiizsilverio/happy-react) | React + Typescript |
   | [Do-while-react](https://github.com/luiizsilverio/do-while-react) | React + Vite + Typescript |
   | [NLW-Widget 🐛](https://github.com/luiizsilverio/nlw-widget) | React + Vite + Tailwind |
+  | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | React + Next + JWT + SASS |
   | [Alurakut](https://github.com/luiizsilverio/alurakut) | Javascript + React + Next + JWT |
   | [Aluracord](https://github.com/luiizsilverio/aluracord) | Javascript + React + Next + Supabase |
   | [Podcastr](https://github.com/luiizsilverio/podcastr) | React + Next + Typescript |
@@ -107,6 +108,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [App-Beer 🍻](https://github.com/luiizsilverio/app-beer-json-server) | React Native / Expo + Typescript |
   | [Happy-react-native 🤗](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |
   | [NLW-Mobile 🐛](https://github.com/luiizsilverio/nlw-mobile) | React Native + Bottom-Sheet + Phosphor |
+  | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | React Native / Expo + Typescript |
   | [App-heat](https://github.com/luiizsilverio/app-heat) | React Native / Expo + Typescript |
   | [AppFinances](https://github.com/luiizsilverio/appfinances) | React Native / Expo |
   | [Rentx 🚗](https://github.com/luiizsilverio/rentx) | React Native / Expo + Typescript |
@@ -124,6 +126,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Happy-back](https://github.com/luiizsilverio/happy-back) | Node + SQLite + TypeORM + Multer |
   | [Jobscalc](https://github.com/luiizsilverio/jobscalc) | Node + Javascript + EJS + SQLite |
   | [NLW-Prisma 🐛](https://github.com/luiizsilverio/nlw-prisma) | Node + Prisma + Nodemailer |
+  | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | Node + Prisma + Multer |
   | [Notes-Mongo 🍃](https://github.com/luiizsilverio/notes_mongo) | Node + Javascript + Handlebars + MongoDB |
   | [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + Javascript + EJS + SQLite |
   | [Api-JWT](https://github.com/luiizsilverio/node-typescript) | Node + Typescript + SQLite + Knex |
