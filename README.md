@@ -122,13 +122,14 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
     
   | Nome do Projeto | Linguagens |
   |------|-------|
-  | [Happy 🤗](https://github.com/luiizsilverio/happy) | Node + Javascript + Handlebars + SQLite |
+  | [Happy 🤗](https://github.com/luiizsilverio/happy) | Node + Handlebars + SQLite |
   | [Happy-back](https://github.com/luiizsilverio/happy-back) | Node + SQLite + TypeORM + Multer |
-  | [Jobscalc](https://github.com/luiizsilverio/jobscalc) | Node + Javascript + EJS + SQLite |
+  | [Jobscalc](https://github.com/luiizsilverio/jobscalc) | Node + EJS + SQLite |
   | [NLW-Prisma 🐛](https://github.com/luiizsilverio/nlw-prisma) | Node + Prisma + Nodemailer |
   | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | Node + Prisma + Multer |
-  | [Notes-Mongo 🍃](https://github.com/luiizsilverio/notes_mongo) | Node + Javascript + Handlebars + MongoDB |
-  | [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + Javascript + EJS + SQLite |
+  | [Notes-Mongo 🍃](https://github.com/luiizsilverio/notes_mongo) | Node + Handlebars + MongoDB |
+  | [Job-Hub 🔎](https://github.com/luiizsilverio/job-hub) | Node + Sequelize + Handlebars + SQLite |
+  | [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + EJS + SQLite |
   | [Api-JWT](https://github.com/luiizsilverio/node-typescript) | Node + Typescript + SQLite + Knex |
   | [Api-Adonis](https://github.com/luiizsilverio/adonis) | AdonisJS + Node + SQLite |
   | [Mongo-GraphQL-Clientes](https://github.com/luiizsilverio/mongo-graphql-clientes) | Node + GraphQL + MongoDB |
@@ -144,9 +145,10 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Exchange-Rate](https://github.com/luiizsilverio/js-exchange-rate) | Javascript |
   | [Js-Weather](https://github.com/luiizsilverio/js-weather) | Javascript |
   | [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
+  | [Dev-Finances](https://github.com/luiizsilverio/dev-finances) | Javascript |
   | [My-Calc](https://github.com/luiizsilverio/my-calc) | Javascript |
   | [Jogo-da-Velha](https://github.com/luiizsilverio/js-velha) | Javascript |
-  | dev-finances | Javascript |
+  | [Js-ViaCEP](https://github.com/luiizsilverio/js-viacep) | Javascript + Bootstrap |
     
 </details>             
 
