@@ -158,8 +158,9 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 ## 📫 Contato
 
 * E-mail: [**luiiz.silverio@gmail.com**](mailto:luiiz.silverio@gmail.com)
-* [Linkedin](https://www.linkedin.com/in/luiz-silv%C3%A9rio-de-oliveira-6b6067210/)
-
+* <a href="https://www.linkedin.com/in/luiz-silv%C3%A9rio-de-oliveira-6b6067210/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 
 <!--
 **luiizsilverio/luiizsilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
