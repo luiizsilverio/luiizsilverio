@@ -97,6 +97,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Cod3r-Panel](https://github.com/luiizsilverio/tailwind-panel) | React + Next + TailwindCSS + Firebase-Auth |
   | [CRUD-Firebase](https://github.com/luiizsilverio/crud-firebase) | React + Next + TailwindCSS + Firebase-Firestore |
   | [Redux-Simples](https://github.com/luiizsilverio/redux-simples) | React + Redux |
+  | [React-Mailgun](https://github.com/luiizsilverio/react-mailgun) | React + Mailgun-js |
   | ig-news | React / Next + Typescript + Prismic |
     
 </details>  
