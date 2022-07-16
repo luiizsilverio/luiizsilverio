@@ -135,6 +135,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Api-JWT](https://github.com/luiizsilverio/node-typescript) | Node + Typescript + SQLite + Knex |
   | [Api-Adonis](https://github.com/luiizsilverio/adonis) | AdonisJS + Node + SQLite |
   | [Mongo-GraphQL-Clientes](https://github.com/luiizsilverio/mongo-graphql-clientes) | Node + GraphQL + MongoDB |
+  | [GetAPet 🐶](https://github.com/luiizsilverio/getapet#balance_scale-licença) | Node + Mongoose + Multer + Yup |
   | [Partytime](https://github.com/luiizsilverio/partytime) | Node + Mongoose + Multer |
   
 </details>      
