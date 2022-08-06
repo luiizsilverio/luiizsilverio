@@ -80,7 +80,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Do-while-react](https://github.com/luiizsilverio/do-while-react) | React + Vite + Typescript |
   | [NLW-Widget 🐛](https://github.com/luiizsilverio/nlw-widget) | React + Vite + Tailwind |
   | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | React + Next + JWT + SASS |
-  | [My-Amazon 🛒](https://github.com/luiizsilverio/my-amazon) | React + Next + Mongoose + TailwindCSS |
+  | [My-Amazon 🛒](https://github.com/luiizsilverio/my-amazon) | React + Next + Mongoose + Stripe + TailwindCSS |
   | [My-Shopee 🛒](https://github.com/luiizsilverio/my-shopee) | React + Node + Mongoose + Redux-Toolkit |
   | [Alurakut](https://github.com/luiizsilverio/alurakut) | Javascript + React + Next + JWT |
   | [Aluracord](https://github.com/luiizsilverio/aluracord) | Javascript + React + Next + Supabase |
