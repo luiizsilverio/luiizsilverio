@@ -152,10 +152,11 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
     
   | Nome do Projeto | Linguagens |
   |------|-------|
+  | [Dev-Finances](https://github.com/luiizsilverio/dev-finances) | Javascript |
+  | [My-Booklist](https://github.com/luiizsilverio/js-booklist) | Javascript + Bootstrap |
   | [Js-Exchange-Rate](https://github.com/luiizsilverio/js-exchange-rate) | Javascript |
   | [Js-Weather](https://github.com/luiizsilverio/js-weather) | Javascript |
   | [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
-  | [Dev-Finances](https://github.com/luiizsilverio/dev-finances) | Javascript |
   | [My-Calc](https://github.com/luiizsilverio/my-calc) | Javascript |
   | [Jogo-da-Velha](https://github.com/luiizsilverio/js-velha) | Javascript |
   | [Js-ViaCEP](https://github.com/luiizsilverio/js-viacep) | Javascript + Bootstrap |
