@@ -85,6 +85,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | React + Next + JWT + SASS |
   | [My-Amazon 🛒](https://github.com/luiizsilverio/my-amazon) | React + Next + Mongoose + Stripe + TailwindCSS |
   | [My-Shopee 🛒](https://github.com/luiizsilverio/my-shopee) | React + Node + Mongoose + Redux-Toolkit |
+  | [My-Magalu 👜](https://github.com/luiizsilverio/my-magalu) | React + Node + Stripe + Bulma |
   | [My-Movies 🎥](https://github.com/luiizsilverio/my-movies) | React + Redux-Toolkit + React-Slick |
   | [Alurakut](https://github.com/luiizsilverio/alurakut) | Javascript + React + Next + JWT |
   | [Aluracord](https://github.com/luiizsilverio/aluracord) | Javascript + React + Next + Supabase |
@@ -104,8 +105,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [CRUD-Firebase](https://github.com/luiizsilverio/crud-firebase) | React + Next + TailwindCSS + Firebase-Firestore |
   | [Redux-Simples](https://github.com/luiizsilverio/redux-simples) | React + Redux |
   | [React-Mailgun](https://github.com/luiizsilverio/react-mailgun) | React + Mailgun-js |
-  | ig-news | React / Next + Typescript + Prismic |
-    
+      
 </details>  
 
 <details open>
