@@ -154,6 +154,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   |------|-------|
   | [Dev-Finances](https://github.com/luiizsilverio/dev-finances) | Javascript |
   | [My-Booklist](https://github.com/luiizsilverio/js-booklist) | Javascript + Bootstrap |
+  | [Js-Kanban](https://github.com/luiizsilverio/js-kanban) | Javascript |
   | [Js-Exchange-Rate](https://github.com/luiizsilverio/js-exchange-rate) | Javascript |
   | [Js-Weather](https://github.com/luiizsilverio/js-weather) | Javascript |
   | [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
