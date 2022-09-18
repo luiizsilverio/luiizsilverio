@@ -81,12 +81,13 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [My-Beer 🍺](https://github.com/luiizsilverio/web-beer) | React + Next + Typescript + Recharts |
   | [Happy-react 🤗](https://github.com/luiizsilverio/happy-react) | React + Typescript |
   | [Do-while-react](https://github.com/luiizsilverio/do-while-react) | React + Vite + Typescript |
-  | [NLW-Widget 🐛](https://github.com/luiizsilverio/nlw-widget) | React + Vite + Tailwind |
   | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | React + Next + JWT + SASS |
   | [My-Amazon 🛒](https://github.com/luiizsilverio/my-amazon) | React + Next + Mongoose + Stripe + TailwindCSS |
   | [My-Shopee 🛒](https://github.com/luiizsilverio/my-shopee) | React + Node + Mongoose + Redux-Toolkit |
   | [My-Magalu 👜](https://github.com/luiizsilverio/my-magalu) | React + Node + Stripe + Bulma |
   | [My-Movies 🎥](https://github.com/luiizsilverio/my-movies) | React + Redux-Toolkit + React-Slick |
+  | [NLW-Widget 🐛](https://github.com/luiizsilverio/nlw-widget) | React + Vite + Tailwind |
+  | [NLW-eSports 🎮](https://github.com/luiizsilverio/nlw-esports) | React + Vite + Prisma + Tailwind |
   | [Alurakut](https://github.com/luiizsilverio/alurakut) | Javascript + React + Next + JWT |
   | [Aluracord](https://github.com/luiizsilverio/aluracord) | Javascript + React + Next + Supabase |
   | [Podcastr](https://github.com/luiizsilverio/podcastr) | React + Next + Typescript |
@@ -114,9 +115,10 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | Nome do Projeto | Linguagens |
   |------|-------|
   | [App-Beer 🍻](https://github.com/luiizsilverio/app-beer-json-server) | React Native / Expo + Typescript |
-  | [Happy-react-native 🤗](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |
-  | [NLW-Mobile 🐛](https://github.com/luiizsilverio/nlw-mobile) | React Native + Bottom-Sheet + Phosphor |
+  | [Happy-react-native 🤗](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |   
   | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | React Native / Expo + Typescript |
+  | [NLW-Mobile 🐛](https://github.com/luiizsilverio/nlw-mobile) | React Native + Bottom-Sheet + Phosphor |
+  | [NLW-eSports 🎮](https://github.com/luiizsilverio/nlw-esports) | React Native + Phosphor + Clipboard |
   | [Rocket-Help 🚀](https://github.com/luiizsilverio/help) | React Native + Firebase + NativeBase |
   | [App-heat](https://github.com/luiizsilverio/app-heat) | React Native / Expo + Typescript |
   | [AppFinances](https://github.com/luiizsilverio/appfinances) | React Native / Expo |
@@ -134,8 +136,9 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Happy 🤗](https://github.com/luiizsilverio/happy) | Node + Handlebars + SQLite |
   | [Happy-back](https://github.com/luiizsilverio/happy-back) | Node + SQLite + TypeORM + Multer |
   | [Jobscalc](https://github.com/luiizsilverio/jobscalc) | Node + EJS + SQLite |
-  | [NLW-Prisma 🐛](https://github.com/luiizsilverio/nlw-prisma) | Node + Prisma + Nodemailer |
   | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | Node + Prisma + Multer |
+  | [NLW-Prisma 🐛](https://github.com/luiizsilverio/nlw-prisma) | Node + Prisma + Nodemailer |
+  | [NLW-eSports 🎮](https://github.com/luiizsilverio/nlw-esports) | Node + Prisma |
   | [Notes-Mongo 🍃](https://github.com/luiizsilverio/notes_mongo) | Node + Handlebars + MongoDB |
   | [Job-Hub 🔎](https://github.com/luiizsilverio/job-hub) | Node + Sequelize + Handlebars + SQLite |
   | [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + EJS + SQLite |
