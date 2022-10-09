@@ -74,7 +74,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 🤩 Alguns projetos interessantes que desenvolvi nos últimos meses:
 
 <details open>
-  <summary><h3>Back-end + Front-end<h3></summary>
+  <summary><h3>Back-end + Front-end</h3></summary>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -86,7 +86,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 </details>
 
 <details open>
-  <summary><h3>React / Next<h3></summary>
+  <summary><h3>React / Next</h3></summary>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -120,7 +120,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 </details>  
 
 <details open>
-  <summary><h3>React Native<h3></summary>
+  <summary><h3>React Native</h3></summary>
     
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -137,7 +137,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 </details>      
     
 <details open>
-  <summary><h3>Node.JS<h3></summary>
+  <summary><h3>Node.JS</h3></summary>
     
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -156,7 +156,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 </details>      
     
 <details open>
-  <summary><h3>Javascript<h3></summary>
+  <summary><h3>Javascript</h3></summary>
     
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -171,9 +171,18 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-ViaCEP](https://github.com/luiizsilverio/js-viacep) | Javascript + Bootstrap |
   | [Js-Video-Player](https://github.com/luiizsilverio/js-video-player) | Javascript |
   | [Js-Quiz-Dev](https://github.com/luiizsilverio/js-quiz-dev) | Javascript |
-  | [Js-Infinite-Scroll](https://github.com/luiizsilverio/js-infinite-scroll) | Javascript |
+  | [Js-Infinite-Scroll](https://github.com/luiizsilverio/js-infinite-scroll) | Javascript |  
     
 </details>             
+
+<details open>
+  <summary><h3>Outros</h3></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [Facebook-clone](https://github.com/luiizsilverio/facebook-clone) | HTML + TailwindCSS |
+  | [Spotify-clone](https://github.com/luiizsilverio/js-spotify) | HTML + TailwindCSS |
+  | [Splash](https://github.com/luiizsilverio/habitual-splash) | HTML + CSS + Javascript |
 
 <br />
     
