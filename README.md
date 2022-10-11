@@ -180,6 +180,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
+  | [Amazon-clone](https://github.com/luiizsilverio/amazon-clone) | HTML + TailwindCSS |
   | [Facebook-clone](https://github.com/luiizsilverio/facebook-clone) | HTML + TailwindCSS |
   | [Spotify-clone](https://github.com/luiizsilverio/js-spotify) | HTML + TailwindCSS |
   | [Splash](https://github.com/luiizsilverio/habitual-splash) | HTML + CSS + Javascript |
