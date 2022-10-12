@@ -132,7 +132,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [AppFinances](https://github.com/luiizsilverio/appfinances) | React Native / Expo |
   | [Rentx 🚗](https://github.com/luiizsilverio/rentx) | React Native / Expo + Typescript |
   | [Todo-list](https://github.com/luiizsilverio/todo-list) | React Native |
-  | MySkills | React Native |    
+  | [MySkills](https://github.com/luiizsilverio/mySkills/tree/master) | React Native + Typescript |
     
 </details>      
     
