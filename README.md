@@ -170,8 +170,9 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Jogo-da-Velha](https://github.com/luiizsilverio/js-velha) | Javascript |
   | [Js-ViaCEP](https://github.com/luiizsilverio/js-viacep) | Javascript + Bootstrap |
   | [Js-Video-Player](https://github.com/luiizsilverio/js-video-player) | Javascript |
+  | [Js-Music-Player](https://github.com/luiizsilverio/js-music-player) | Javascript |
   | [Js-Quiz-Dev](https://github.com/luiizsilverio/js-quiz-dev) | Javascript |
-  | [Js-Infinite-Scroll](https://github.com/luiizsilverio/js-infinite-scroll) | Javascript |  
+  | [Js-Infinite-Scroll](https://github.com/luiizsilverio/js-infinite-scroll) | Javascript |    
     
 </details>             
 
