@@ -173,6 +173,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Music-Player](https://github.com/luiizsilverio/js-music-player) | Javascript |
   | [Js-Quiz-Dev](https://github.com/luiizsilverio/js-quiz-dev) | Javascript |
   | [Js-Infinite-Scroll](https://github.com/luiizsilverio/js-infinite-scroll) | Javascript |    
+  | [Rocket-Pay](https://github.com/luiizsilverio/rocketpay) | Javascript + Vite + iMask |
     
 </details>             
 
@@ -185,9 +186,9 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Facebook-clone](https://github.com/luiizsilverio/facebook-clone) | HTML + TailwindCSS |
   | [Spotify-clone](https://github.com/luiizsilverio/js-spotify) | HTML + TailwindCSS |
   | [Splash](https://github.com/luiizsilverio/habitual-splash) | HTML + CSS + Javascript |
-
-<br />
-    
+  
+---  
+  
 ## 📫 Contato
 
 <a href = "mailto:luiiz.silverio@gmail.com" target="_blank">
