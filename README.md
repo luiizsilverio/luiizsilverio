@@ -174,6 +174,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Quiz-Dev](https://github.com/luiizsilverio/js-quiz-dev) | Javascript |
   | [Js-Infinite-Scroll](https://github.com/luiizsilverio/js-infinite-scroll) | Javascript |    
   | [Rocket-Pay](https://github.com/luiizsilverio/rocketpay) | Javascript + Vite + iMask |
+  | [Js-Negociacoes](https://github.com/luiizsilverio/aluraframe) | Javascript |
     
 </details>             
 
