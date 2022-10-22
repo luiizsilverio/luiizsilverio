@@ -173,6 +173,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Music-Player](https://github.com/luiizsilverio/js-music-player) | Javascript |
   | [Js-Quiz-Dev](https://github.com/luiizsilverio/js-quiz-dev) | Javascript |
   | [Js-Infinite-Scroll](https://github.com/luiizsilverio/js-infinite-scroll) | Javascript |    
+  | [Js-Countdown](https://github.com/luiizsilverio/js-countdown) | Javascript + Date-fns |
   | [Rocket-Pay](https://github.com/luiizsilverio/rocketpay) | Javascript + Vite + iMask |
   | [Js-Negociacoes](https://github.com/luiizsilverio/aluraframe) | Javascript |
     
