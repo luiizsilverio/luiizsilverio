@@ -163,6 +163,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Dev-Finances](https://github.com/luiizsilverio/dev-finances) | Javascript |
   | [My-Booklist](https://github.com/luiizsilverio/js-booklist) | Javascript + Bootstrap |
   | [Js-Kanban](https://github.com/luiizsilverio/js-kanban) | Javascript |
+  | [Js-Negociacoes](https://github.com/luiizsilverio/aluraframe) | Javascript + MVC |
   | [Js-Exchange-Rate](https://github.com/luiizsilverio/js-exchange-rate) | Javascript |
   | [Js-Weather](https://github.com/luiizsilverio/js-weather) | Javascript |
   | [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
@@ -174,8 +175,8 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Quiz-Dev](https://github.com/luiizsilverio/js-quiz-dev) | Javascript |
   | [Js-Infinite-Scroll](https://github.com/luiizsilverio/js-infinite-scroll) | Javascript |    
   | [Js-Countdown](https://github.com/luiizsilverio/js-countdown) | Javascript + Date-fns |
-  | [Rocket-Pay](https://github.com/luiizsilverio/rocketpay) | Javascript + Vite + iMask |
-  | [Js-Negociacoes](https://github.com/luiizsilverio/aluraframe) | Javascript |
+  | [Rocket-Pay](https://github.com/luiizsilverio/rocketpay) | Javascript + Vite + iMask |  
+  | [Js-Book-Keeper](https://github.com/luiizsilverio/js-book-keeper) | Javascript |
     
 </details>             
 
