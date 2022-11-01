@@ -58,6 +58,9 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   <a href="https://typeorm.io/#/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/20165699" alt="typeorm" width="40" height="40"/> 
   </a>
+  <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma" height="40"/>
+  </a>
   <a href="https://knexjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.philipotoole.com/wp-content/uploads/2020/02/knex-150x150.png" alt="knex" width="40" height="40"/> 
   </a>   
