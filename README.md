@@ -182,6 +182,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Countdown](https://github.com/luiizsilverio/js-countdown) | Javascript + Date-fns |
   | [Rocket-Pay](https://github.com/luiizsilverio/rocketpay) | Javascript + Vite + iMask |  
   | [Js-Book-Keeper](https://github.com/luiizsilverio/js-book-keeper) | Javascript |
+  | [Js-Quote-Generator](https://github.com/luiizsilverio/js-quote-generator) | Javascript + Twitter |
   | [Js-Bank](https://github.com/luiizsilverio/js-bank/tree/heranca) | Javascript + Orientação a Objetos |
     
 </details>             
