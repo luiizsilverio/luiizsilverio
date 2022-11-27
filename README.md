@@ -185,6 +185,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Quote-Generator](https://github.com/luiizsilverio/js-quote-generator) | Javascript + Twitter |
   | [Js-Bank](https://github.com/luiizsilverio/js-bank/tree/heranca) | Javascript + Orientação a Objetos |
   | [Js-DevNotes](https://github.com/luiizsilverio/js-devnotes) | Javascript + CSV |
+  | [Js-Dark-Mode](https://github.com/luiizsilverio/js-dark-mode) | Javascript |
     
 </details>             
 
