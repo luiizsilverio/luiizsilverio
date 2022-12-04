@@ -132,6 +132,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [App-Beer 🍻](https://github.com/luiizsilverio/app-beer-json-server) | React Native / Expo + Typescript |
   | [Happy-react-native 🤗](https://github.com/luiizsilverio/happy-react-native) | React-Native + Typescript |   
   | [NLW-Mobile 🐛](https://github.com/luiizsilverio/nlw-mobile) | React Native + Bottom-Sheet + Phosphor |
+  | [OneBitLife 🤖](https://github.com/luiizsilverio/onebitlife) | React Native + Expo-SQLite + Expo-Notifications |
   | [Rocket-Help 🚀](https://github.com/luiizsilverio/help) | React Native + Firebase + NativeBase |
   | [App-heat](https://github.com/luiizsilverio/app-heat) | React Native / Expo + Typescript |
   | [AppFinances](https://github.com/luiizsilverio/appfinances) | React Native / Expo |
