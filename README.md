@@ -47,7 +47,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
   <a href="https://lesscss.org/usage/" target="_blank" rel="noreferrer"> 
-    <img src="https://i1.wp.com/www.casamidia.com.br/wp-content/uploads/2016/03/less-logo.png?ssl=1" alt="less" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/3538330?s=200&v=4" alt="less" width="40" height="40"/> 
   </a>
   <a href="https://styled-components.com" target="_blank" rel="noreferrer"> 
     <img src="https://images.opencollective.com/styled-components/fab37df/logo.png" alt="Styled-Components" width="40" height="40"/> 
