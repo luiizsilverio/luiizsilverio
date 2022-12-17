@@ -188,6 +188,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-DevNotes](https://github.com/luiizsilverio/js-devnotes) | Javascript + CSV |
   | [Js-Dark-Mode](https://github.com/luiizsilverio/js-dark-mode) | Javascript |
   | [Js-Timer ⏲](https://github.com/luiizsilverio/js-electron) | Javascript + Electron |
+  | [Js-Notepad 📝](https://github.com/luiizsilverio/js-notepad) | Javascript + Electron |
     
 </details>             
 
