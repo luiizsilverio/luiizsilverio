@@ -67,6 +67,9 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
     <img src="https://handlebarsjs.com/images/handlebars_logo.png" alt="handlebars" width="40" height="40"/> 
   </a>  
+  <a href="https://www.electronjs.org/docs/latest/" target="_blank" rel="noreferrer">
+    <img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron" width="40" height="40"/> 
+  </a>
   <a href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" alt="delphi" width="40" height="40"/> 
   </a>
