@@ -192,6 +192,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Dark-Mode](https://github.com/luiizsilverio/js-dark-mode) | Javascript |
   | [Js-Timer ⏲](https://github.com/luiizsilverio/js-electron) | Javascript + Electron |
   | [Js-Notepad 📝](https://github.com/luiizsilverio/js-notepad) | Javascript + Electron |
+  | [Js-Math-Game](https://github.com/luiizsilverio/js-math-game) | Javascript |
     
 </details>             
 
