@@ -177,6 +177,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Weather](https://github.com/luiizsilverio/js-weather) | Javascript |
   | [Js-Quiz-Livros](https://github.com/luiizsilverio/js-quiz-livros) | Javascript |
   | [My-Calc](https://github.com/luiizsilverio/my-calc) | Javascript |
+  | [Js-Calc](https://github.com/luiizsilverio/js-calc) | Javascript
   | [Jogo-da-Velha](https://github.com/luiizsilverio/js-velha) | Javascript |
   | [Js-ViaCEP](https://github.com/luiizsilverio/js-viacep) | Javascript + Bootstrap |
   | [Js-Video-Player](https://github.com/luiizsilverio/js-video-player) | Javascript |
