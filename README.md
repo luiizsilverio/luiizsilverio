@@ -188,7 +188,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Rocket-Pay](https://github.com/luiizsilverio/rocketpay) | Javascript + Vite + iMask |  
   | [Js-Book-Keeper](https://github.com/luiizsilverio/js-book-keeper) | Javascript |
   | [Js-Quote-Generator](https://github.com/luiizsilverio/js-quote-generator) | Javascript + Twitter |
-  | [Js-Bank](https://github.com/luiizsilverio/js-bank/tree/heranca) | Javascript + Orientação a Objetos |
+  | [Js-Bank](https://github.com/luiizsilverio/js-bank/tree/heranca) | Javascript + MVC + O.O |
   | [Js-DevNotes](https://github.com/luiizsilverio/js-devnotes) | Javascript + CSV |
   | [Js-Dark-Mode](https://github.com/luiizsilverio/js-dark-mode) | Javascript |
   | [Js-Timer ⏲](https://github.com/luiizsilverio/js-electron) | Javascript + Electron |
@@ -202,6 +202,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
+  | [TS-Negociacoes](https://github.com/luiizsilverio/typescript-1) | Typescript + MVC + O.O |
   | [Amazon-clone](https://github.com/luiizsilverio/amazon-clone) | HTML + TailwindCSS |
   | [Facebook-clone](https://github.com/luiizsilverio/facebook-clone) | HTML + TailwindCSS |
   | [Spotify-clone](https://github.com/luiizsilverio/js-spotify) | HTML + TailwindCSS |
