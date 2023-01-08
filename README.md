@@ -155,6 +155,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Jobscalc](https://github.com/luiizsilverio/jobscalc) | Node + EJS + SQLite |
   | [NLW-Prisma 🐛](https://github.com/luiizsilverio/nlw-prisma) | Node + Prisma + Nodemailer |
   | [Notes-Mongo 🍃](https://github.com/luiizsilverio/notes_mongo) | Node + Handlebars + MongoDB |
+  | [Dev-Training 📚](https://github.com/luiizsilverio/dev-training) | Node + NestJS + Typescript |
   | [Job-Hub 🔎](https://github.com/luiizsilverio/job-hub) | Node + Sequelize + Handlebars + SQLite |
   | [Rocket.Q](https://github.com/luiizsilverio/rocket.q) | Node + EJS + SQLite |
   | [Api-JWT](https://github.com/luiizsilverio/node-typescript) | Node + Typescript + SQLite + Knex |
