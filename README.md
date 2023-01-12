@@ -205,6 +205,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | Nome do Projeto | Linguagens |
   |------|-------|
   | [TS-Negociacoes](https://github.com/luiizsilverio/typescript-1) | Typescript + MVC + O.O |
+  | [My-Fitness](https://github.com/luiizsilverio/my-fitness) | Typescript + LESS + HTML |
   | [Amazon-clone](https://github.com/luiizsilverio/amazon-clone) | HTML + TailwindCSS |
   | [Facebook-clone](https://github.com/luiizsilverio/facebook-clone) | HTML + TailwindCSS |
   | [Spotify-clone](https://github.com/luiizsilverio/js-spotify) | HTML + TailwindCSS |
