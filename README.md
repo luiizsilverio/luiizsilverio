@@ -86,10 +86,11 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   |------|-------|
   | [Waiter-app 🍽](https://github.com/luiizsilverio/jstack-garcom) | Node + Mongoose + Socket.io / React + Vite / React Native |
   | [Copa-2022 ⚽](https://github.com/luiizsilverio/codarme-copa) | Node + Koa + Prisma / React + Vite + Tailwind |  
-  | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | Node + Prisma + Multer / React + Next / React Native + Expo + Typescript |
+  | [My-Pizza 🍕](https://github.com/luiizsilverio/pizzaria) | Node + Prisma + Multer / React + Next / React Native + Expo + Typescript |  
+  | [GetAPet 🐶](https://github.com/luiizsilverio/getapet) | Node + Mongoose + Multer + Yup / React + SASS |
   | [NLW-eSports 🎮](https://github.com/luiizsilverio/nlw-esports) | Node + Prisma / React + Vite + Tailwind / React Native + Clipboard |
   | [NLW-Copa ⚽](https://github.com/luiizsilverio/nlw-copa) | Node + Fastify + Prisma / React + Tailwind / React Native + Native Base |
-  | [GetAPet 🐶](https://github.com/luiizsilverio/getapet) | Node + Mongoose + Multer + Yup / React + SASS |
+  | [NLW-Habits 🟪](https://github.com/luiizsilverio/nlw-setup) | Node + Fastify + Prisma / React + Tailwind + Radix-UI |
   
 </details>
 
