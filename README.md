@@ -125,6 +125,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [CRUD-Firebase](https://github.com/luiizsilverio/crud-firebase) | React + Next + TailwindCSS + Firebase-Firestore |
   | [Redux-Simples](https://github.com/luiizsilverio/redux-simples) | React + Redux |
   | [React-Mailgun](https://github.com/luiizsilverio/react-mailgun) | React + Mailgun-js |
+  | [Trato-Tech](https://github.com/luiizsilverio/trato-tech) | React + Redux-Toolkit |
       
 </details>  
 
