@@ -71,7 +71,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
     <img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron" width="40" height="40"/> 
   </a>
   <a href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" alt="delphi" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg" alt="delphi" width="40" height="40"/> 
   </a>
 </p>
 
