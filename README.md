@@ -146,6 +146,8 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Todo-list](https://github.com/luiizsilverio/todo-list) | React Native |
   | [MySkills](https://github.com/luiizsilverio/mySkills/tree/master) | React Native + Typescript |
   | [App-SQLite](https://github.com/luiizsilverio/app-sqlite) | React Native / Expo + Expo-SQLite |
+  | [Alura-Esporte](https://github.com/luiizsilverio/alura-esporte) | React Native + Firestore + Firebase-Auth |
+  | [App-Space 🚀](https://github.com/luiizsilverio/app-space) | React Native + Firestore + Storage |
     
 </details>      
     
