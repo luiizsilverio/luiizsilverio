@@ -170,6 +170,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Mongo-GraphQL-Clientes](https://github.com/luiizsilverio/mongo-graphql-clientes) | Node + GraphQL + MongoDB |
   | [Partytime](https://github.com/luiizsilverio/partytime) | Node + Mongoose + Multer |
   | [API-Imagens](https://github.com/luiizsilverio/api-imagens) | Node + Mongoose + Multer |
+  | [Alura-Docs 🧦](https://github.com/luiizsilverio/alura-docs) | Node + Socket.io + MongoDB |
   
 </details>
     
