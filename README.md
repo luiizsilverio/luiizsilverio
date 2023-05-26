@@ -204,6 +204,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Js-Timer ⏲](https://github.com/luiizsilverio/js-electron) | Javascript + Electron |
   | [Js-Notepad 📝](https://github.com/luiizsilverio/js-notepad) | Javascript + Electron |
   | [Js-Math-Game](https://github.com/luiizsilverio/js-math-game) | Javascript |
+  | [Js-Desafio s⚔](https://github.com/luiizsilverio/desafios_javascript) | Javascript |
     
 </details>             
 
