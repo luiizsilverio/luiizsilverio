@@ -127,6 +127,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [React-Mailgun](https://github.com/luiizsilverio/react-mailgun) | React + Mailgun-js |
   | [Trato-Tech](https://github.com/luiizsilverio/trato-tech) | React + Redux-Toolkit |
   | [Multistep-Form](https://github.com/luiizsilverio/multistep_form) | React + Vite + Redux-Toolkit |
+  | [React-Zod](https://github.com/luiizsilverio/react-zod) | React + React-Hook-Form + Zod + Supabase |
       
 </details>  
 
