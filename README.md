@@ -172,6 +172,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
   | [Partytime](https://github.com/luiizsilverio/partytime) | Node + Mongoose + Multer |
   | [API-Imagens](https://github.com/luiizsilverio/api-imagens) | Node + Mongoose + Multer |
   | [Alura-Docs 🧦](https://github.com/luiizsilverio/alura-docs) | Node + Socket.io + MongoDB |
+  | [GraphQL-Alura](https://github.com/luiizsilverio/graphql-alura) | Node + GraphQL + Apollo-Server |
   
 </details>
     
