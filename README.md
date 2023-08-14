@@ -6,7 +6,7 @@ Também fiz três anos de Análise de Sistemas (incompleto) e Letras.<br/>
 Fiz diversos cursos de Front-End, Javascript, Typescript, ReactJs, NodeJs e React Native.<br/>
 Já utilizei vários frameworks e libs dentro desse universo Javascript.<br/>
 Continuo estudando e participando de maratonas Full-Stack.<br/>
->Para maiores informações sobre minha formação, cursos realizados e atividades, acesse meu [LinkedIn](www.linkedin.com/in/luiz-s-de-oliveira-6b6067210).
+>Para maiores informações sobre minha formação, cursos realizados e atividades, acesse meu [LinkedIn](https://www.linkedin.com/in/luiz-s-de-oliveira-6b6067210).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiizsilverio&color=yellow" alt="Profile views" /> </p>
 
@@ -232,7 +232,7 @@ Continuo estudando e participando de maratonas Full-Stack.<br/>
 <a href = "mailto:luiiz.silverio@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-<a href="www.linkedin.com/in/luiz-s-de-oliveira-6b6067210" target="_blank">
+<a href="https://www.linkedin.com/in/luiz-s-de-oliveira-6b6067210" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
