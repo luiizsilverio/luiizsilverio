@@ -1,17 +1,12 @@
 ## Olá 👋, meu nome é Luiz.
 
-😎 Sou desenvolvedor Delphi, Javascript, Typescript, NodeJS, React JS e React Native
-
-👨‍🎓 Moro em Campinas/SP e sou formado em Gestão de T.I
-
-🦉 Também fiz três anos de Análise de Sistemas (incompleto) e Letras
-
-😵 Fiz diversos cursos na área de Front-End e também Back-end
-
-📚 Utilizo vários frameworks e libs dentro desse universo Javascript
-
-🚀 Continuo estudando e acho que nunca vou parar
-
+😎 Sou desenvolvedor Delphi, Javascript, Typescript, NodeJS, React JS e React Native <br>
+👨‍🎓 Moro em Campinas/SP e sou formado em Gestão de T.I <br>
+🦉 Também fiz três anos de Análise de Sistemas (incompleto) e Letras <br>
+😵 Fiz diversos cursos na área de Front-End e também Back-end <br>
+📚 Utilizo vários frameworks e libs dentro desse universo Javascript <br>
+🚀 Continuo estudando e acho que nunca vou parar <br>
+<br>
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-s-de-oliveira-6b6067210)
