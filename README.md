@@ -6,7 +6,7 @@
 😵 Fiz diversos cursos na área de Front-End e também Back-end <br>
 📚 Utilizo vários frameworks e libs dentro desse universo Javascript <br>
 🚀 Continuo estudando e acho que nunca vou parar <br>
-<br>
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-s-de-oliveira-6b6067210)
