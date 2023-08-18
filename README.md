@@ -1,12 +1,21 @@
 ## Olá 👋, meu nome é Luiz.
 
-Sou desenvolvedor Delphi, Javascript, Typescript, NodeJS, React JS e React Native 😎<br/>
-Moro em Campinas/SP e sou formado em Gestão de T.I 👨‍🎓<br/>
-Também fiz três anos de Análise de Sistemas (incompleto) e Letras 🦉<br/>
-Fiz diversos cursos na área de Front-End e também Back-end 😵<br/>
-Utilizo vários frameworks e libs dentro desse universo Javascript 📚<br/>
-Continuo estudando e acho que nunca vou parar 🚀<br/>
->Para maiores informações, acesse meu [LinkedIn](https://www.linkedin.com/in/luiz-s-de-oliveira-6b6067210).
+😎 Sou desenvolvedor Delphi, Javascript, Typescript, NodeJS, React JS e React Native
+
+👨‍🎓 Moro em Campinas/SP e sou formado em Gestão de T.I
+
+🦉 Também fiz três anos de Análise de Sistemas (incompleto) e Letras
+
+😵 Fiz diversos cursos na área de Front-End e também Back-end
+
+📚 Utilizo vários frameworks e libs dentro desse universo Javascript
+
+🚀 Continuo estudando e acho que nunca vou parar
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-s-de-oliveira-6b6067210)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiiz.silverio@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiizsilverio&color=yellow" alt="Profile views" /> </p>
 
@@ -226,15 +235,6 @@ Continuo estudando e acho que nunca vou parar 🚀<br/>
   | [Splash](https://github.com/luiizsilverio/habitual-splash) | HTML + CSS + Javascript |
   
 ---  
-  
-## 📫 Contato
-
-<a href = "mailto:luiiz.silverio@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-<a href="https://www.linkedin.com/in/luiz-s-de-oliveira-6b6067210" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
 <!--
 **luiizsilverio/luiizsilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
