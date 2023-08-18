@@ -81,10 +81,10 @@
 
 ## Portfólio
 
-🤩 Alguns projetos interessantes que desenvolvi nos últimos meses:
+🤩 Alguns projetos interessantes que desenvolvi nos últimos anos:
 
 <details open>
-  <summary><h3>Back-end + Front-end</h3></summary>
+  <summary><h3>😎 Back-end + Front-end</h3></summary>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -99,7 +99,7 @@
 </details>
 
 <details open>
-  <summary><h3>React / Next</h3></summary>
+  <summary><h3>⚛ React / Next</h3></summary>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -137,7 +137,7 @@
 </details>  
 
 <details open>
-  <summary><h3>React Native</h3></summary>
+  <summary><h3>📱 React Native</h3></summary>
     
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -159,7 +159,7 @@
 </details>      
     
 <details open>
-  <summary><h3>Node.JS</h3></summary>
+  <summary><h3>👷‍♂️ Node.JS</h3></summary>
     
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -184,7 +184,7 @@
 </details>
     
 <details open>
-  <summary><h3>Javascript</h3></summary>
+  <summary><h3>🍬 Javascript</h3></summary>
     
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -218,7 +218,7 @@
 </details>             
 
 <details open>
-  <summary><h3>Outros</h3></summary>
+  <summary><h3>✨ Outros</h3></summary>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -228,8 +228,6 @@
   | [Facebook-clone](https://github.com/luiizsilverio/facebook-clone) | HTML + TailwindCSS |
   | [Spotify-clone](https://github.com/luiizsilverio/js-spotify) | HTML + TailwindCSS |
   | [Splash](https://github.com/luiizsilverio/habitual-splash) | HTML + CSS + Javascript |
-  
----  
 
 <!--
 **luiizsilverio/luiizsilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
