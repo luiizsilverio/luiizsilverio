@@ -3,8 +3,8 @@
 😎 Sou desenvolvedor Delphi, Javascript, Typescript, NodeJS, React JS e React Native <br>
 👨‍🎓 Moro em Campinas/SP e sou formado em Gestão de T.I <br>
 🦉 Também fiz três anos de Análise de Sistemas (incompleto) e Letras <br>
-😵 Fiz diversos cursos na área de Front-End e também Back-end <br>
-📚 Utilizo vários frameworks e libs dentro desse universo Javascript <br>
+📚 Fiz diversos cursos na área de Front-End e também Back-end <br>
+🧪 Utilizo vários frameworks e libs dentro desse universo Javascript <br>
 🚀 Continuo estudando e acho que nunca vou parar <br>
 
 ---
