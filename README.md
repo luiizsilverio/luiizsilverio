@@ -5,7 +5,7 @@
 🦉 Também fiz três anos de Análise de Sistemas (incompleto) e Letras <br>
 📚 Fiz diversos cursos na área de Front-End e também Back-end <br>
 🧪 Utilizo vários frameworks e libs dentro desse universo Javascript <br>
-🚀 Continuo estudando e acho que nunca vou parar <br>
+🚀 Continuo estudando até o infinito e além <br>
 
 ---
 
