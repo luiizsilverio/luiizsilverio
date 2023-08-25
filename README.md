@@ -155,6 +155,7 @@
   | [Alura-Esporte](https://github.com/luiizsilverio/alura-esporte) | React Native + Firestore + Firebase-Auth |
   | [App-Space 🚀](https://github.com/luiizsilverio/app-space) | React Native + Firestore + Storage |
   | [App-Hooks](https://github.com/luiizsilverio/RNhooks) | React Native |
+  | [App-Alugue 🏘](https://github.com/luiizsilverio/app-alugue) | React Native + Swiper + Stars |
     
 </details>      
     
