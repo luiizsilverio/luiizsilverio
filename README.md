@@ -215,6 +215,7 @@
   | [Js-Notepad 📝](https://github.com/luiizsilverio/js-notepad) | Javascript + Electron |
   | [Js-Math-Game](https://github.com/luiizsilverio/js-math-game) | Javascript |
   | [Js-Desafios ⚔](https://github.com/luiizsilverio/desafios_javascript) | Javascript |
+  | [Js-PDF](https://github.com/luiizsilverio/js-pdf) | Javascript |
     
 </details>             
 
@@ -229,6 +230,7 @@
   | [Facebook-clone](https://github.com/luiizsilverio/facebook-clone) | HTML + TailwindCSS |
   | [Spotify-clone](https://github.com/luiizsilverio/js-spotify) | HTML + TailwindCSS |
   | [Splash](https://github.com/luiizsilverio/habitual-splash) | HTML + CSS + Javascript |
+  | [My-Decor](https://github.com/luiizsilverio/my-decor) | HTML + CSS |
 
 <!--
 **luiizsilverio/luiizsilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
