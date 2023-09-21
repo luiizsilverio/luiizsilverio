@@ -133,6 +133,7 @@
   | [Multistep-Form](https://github.com/luiizsilverio/multistep_form) | React + Vite + Redux-Toolkit |
   | [My-Blog 👓](https://github.com/luiizsilverio/my-blog) | React + Supabase-js |
   | [React-Zod](https://github.com/luiizsilverio/react-zod) | React + React-Hook-Form + Zod + Supabase |  
+  | [My-Curriculo](https://github.com/luiizsilverio/my-curriculo) | React + React-Icons + SASS |
       
 </details>  
 
