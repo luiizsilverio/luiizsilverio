@@ -159,6 +159,7 @@
   | [App-Alugue 🏘](https://github.com/luiizsilverio/app-alugue) | React Native + Swiper + Stars |
   | [App-Camera 📸](https://github.com/luiizsilverio/app-camera) | React Native + expo-camera |
   | [My-Tenis 👟](https://github.com/luiizsilverio/my-tenis) | React Native + Expo |
+  | [My-TikTok](https://github.com/luiizsilverio/my-tiktok) | React Native + Expo + Expo-Av |
     
 </details>      
     
