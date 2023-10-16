@@ -1,6 +1,6 @@
 ## Olá 👋, meu nome é Luiz.
 
-😎 Sou desenvolvedor Delphi, Javascript, Typescript, NodeJS, React JS e React Native <br>
+😎 Sou desenvolvedor Javascript, Typescript, NodeJS, React, React Native e Delphi <br>
 👨‍🎓 Moro em Campinas/SP e sou formado em Gestão de T.I <br>
 🦉 Também fiz três anos de Análise de Sistemas (incompleto) e Letras (*what*)<br>
 📚 Fiz diversos cursos na área de Front-End e também Back-end <br>
