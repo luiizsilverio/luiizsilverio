@@ -134,6 +134,7 @@
   | [My-Blog 👓](https://github.com/luiizsilverio/my-blog) | React + Supabase-js |
   | [React-Zod](https://github.com/luiizsilverio/react-zod) | React + React-Hook-Form + Zod + Supabase |  
   | [My-Curriculo](https://github.com/luiizsilverio/my-curriculo) | React + React-Icons + SASS |
+  | [My-Tasks](https://github.com/luiizsilverio/my-tasks) | React + Next + Firebase + Next-Auth |
       
 </details>  
 
