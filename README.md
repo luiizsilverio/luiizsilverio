@@ -95,6 +95,7 @@
   | [NLW-eSports 🎮](https://github.com/luiizsilverio/nlw-esports) | Node + Prisma / React + Vite + Tailwind / React Native + Clipboard |
   | [NLW-Copa ⚽](https://github.com/luiizsilverio/nlw-copa) | Node + Fastify + Prisma / React + Tailwind / React Native + Native Base |
   | [NLW-Habits 🟪](https://github.com/luiizsilverio/nlw-setup) | Node + Fastify + Prisma / React + Tailwind + Radix-UI |
+  | [My-Books 📚](https://github.com/luiizsilverio/my-news) | Node + Mongoose + Multer / React + Vite + Bootstrap |
   
 </details>
 
