@@ -137,6 +137,7 @@
   | [My-Curriculo](https://github.com/luiizsilverio/my-curriculo) | React + React-Icons + SASS |
   | [My-Tasks](https://github.com/luiizsilverio/my-tasks) | React + Next + Firebase + Next-Auth |
   | [My-Games 🎮](https://github.com/luiizsilverio/my-games) | React + Next + App Router |
+  | [NLW-Expert](https://github.com/luiizsilverio/nlw-14) | React + Radix-UI + TailwindCSS + SpeechRecognition API |
       
 </details>  
 
