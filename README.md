@@ -164,6 +164,7 @@
   | [App-Camera 📸](https://github.com/luiizsilverio/app-camera) | React Native + expo-camera |
   | [My-Tenis 👟](https://github.com/luiizsilverio/my-tenis) | React Native + Expo |
   | [My-TikTok](https://github.com/luiizsilverio/my-tiktok) | React Native + Expo + Expo-Av |
+  | [Sleep-Sounds](https://github.com/luiizsilverio/sleep-sounds) | React Native + React-Native-Bottom-Sheet |
     
 </details>      
     
