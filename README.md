@@ -77,6 +77,9 @@
   <a href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg" alt="delphi" width="40" height="40"/> 
   </a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
+    <img src="https://i.pinimg.com/736x/e1/78/1b/e1781bc61a928d061d15cd9f1d78fa88.jpg" alt="figma" width="40" height="40"/> 
+  </a>
 </p>
 
 ## Portfólio
