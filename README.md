@@ -169,6 +169,7 @@
   | [My-TikTok](https://github.com/luiizsilverio/my-tiktok) | React Native + Expo + Expo-Av |
   | [Sleep-Sounds](https://github.com/luiizsilverio/sleep-sounds) | React Native + React-Native-Bottom-Sheet |
   | [App-Cook 🥗](https://github.com/luiizsilverio/app-cook) | React Native + Expo + Supabase |
+  | [My-Gmail](https://github.com/luiizsilverio/my-gmail) | React Native + NativeBase + Expo-Router |
     
 </details>      
     
