@@ -129,7 +129,6 @@
   | [Portas](https://github.com/luiizsilverio/react-portas) | React + Next + Typescript |
   | [My-Quiz](https://github.com/luiizsilverio/next-quiz) | React + Next + Typescript |  
   | [Dt-Money 💰](https://github.com/luiizsilverio/dtmoney) | React + Typescript |
-  | [Devcommerce](https://github.com/luiizsilverio/devcommerce) | React + Next + Typescript + Prismic |
   | [Github-Search](https://github.com/luiizsilverio/github-search) | React + Typescript |
   | [Cod3r-Panel](https://github.com/luiizsilverio/tailwind-panel) | React + Next + TailwindCSS + Firebase-Auth |
   | [CRUD-Firebase](https://github.com/luiizsilverio/crud-firebase) | React + Next + TailwindCSS + Firebase-Firestore |
