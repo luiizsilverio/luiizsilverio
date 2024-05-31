@@ -110,6 +110,7 @@
   |------|-------|
   | [My-Beer 🍺](https://github.com/luiizsilverio/web-beer) | React + Next + Typescript + Recharts |
   | [Happy-react 🤗](https://github.com/luiizsilverio/happy-react) | React + Typescript |
+  | [My-Barber 🧔‍♂️](https://github.com/luiizsilverio/my-barber) | React + Next + Next-Auth + Prisma + Shadcn/ui |
   | [Do-while-react](https://github.com/luiizsilverio/do-while-react) | React + Vite + Typescript |
   | [My-Amazon 🛒](https://github.com/luiizsilverio/my-amazon) | React + Next + Mongoose + Stripe + TailwindCSS |
   | [My-Shopee 🛒](https://github.com/luiizsilverio/my-shopee) | React + Node + Mongoose + Redux-Toolkit |
