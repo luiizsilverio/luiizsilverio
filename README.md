@@ -233,6 +233,7 @@
   | [Js-Desafios ⚔](https://github.com/luiizsilverio/desafios_javascript) | Javascript |
   | [Js-PDF](https://github.com/luiizsilverio/js-pdf) | Javascript |
   | [Js-Memory 🧠](https://github.com/luiizsilverio/js-memory?tab=readme-ov-file) | Javascript |
+  | [ImageFinder](https://github.com/luiizsilverio/ImageFinder) | Javascript |
     
 </details>             
 
