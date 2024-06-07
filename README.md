@@ -196,6 +196,7 @@
   | [API-Imagens](https://github.com/luiizsilverio/api-imagens) | Node + Mongoose + Multer |
   | [Alura-Docs 🧦](https://github.com/luiizsilverio/alura-docs) | Node + Socket.io + MongoDB |
   | [GraphQL-Alura](https://github.com/luiizsilverio/graphql-alura) | Node + GraphQL + Apollo-Server |
+  | [MyContacts](https://github.com/luiizsilverio/mycontacts) | Node + Mongoose + autenticação JWT |
   | [My-Livros](https://github.com/luiizsilverio/my-livros) | Node + Mongoose |
   
 </details>
