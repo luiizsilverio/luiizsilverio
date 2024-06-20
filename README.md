@@ -235,6 +235,7 @@
   | [Js-PDF](https://github.com/luiizsilverio/js-pdf) | Javascript |
   | [Js-Memory 🧠](https://github.com/luiizsilverio/js-memory?tab=readme-ov-file) | Javascript |
   | [ImageFinder](https://github.com/luiizsilverio/ImageFinder) | Javascript |
+  | [Js-fala 🗣️](https://github.com/luiizsilverio/js-fala) | Javascript + Web API SpeechSynthesisUtterance |
     
 </details>             
 
