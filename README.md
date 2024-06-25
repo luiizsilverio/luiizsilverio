@@ -4,7 +4,7 @@
 👨‍🎓 Moro em Campinas/SP e sou formado em Gestão de T.I <br>
 🦉 Também fiz três anos de Análise de Sistemas (incompleto) e Letras (*what*)<br>
 📚 Fiz diversos cursos na área de Front-End e também Back-end <br>
-🧪 Utilizo vários frameworks e libs dentro desse universo Javascript <br>
+🧪 Utilizo vários frameworks e libs dentro desse universo Javascript (e agora PHP) <br>
 🚀 Continuo estudando diariamente <br>
 
 ---
@@ -79,6 +79,9 @@
   </a>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
     <img src="https://i.pinimg.com/736x/e1/78/1b/e1781bc61a928d061d15cd9f1d78fa88.jpg" alt="figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="php" width="40" height="40"/>
   </a>
 </p>
 
