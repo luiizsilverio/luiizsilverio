@@ -252,8 +252,8 @@
   | [Amazon-clone](https://github.com/luiizsilverio/amazon-clone) | HTML + TailwindCSS |
   | [Facebook-clone](https://github.com/luiizsilverio/facebook-clone) | HTML + TailwindCSS |
   | [Spotify-clone](https://github.com/luiizsilverio/js-spotify) | HTML + TailwindCSS |
+  | [PHP-EAD 🧑🏽‍💻](https://github.com/luiizsilverio/php-ead) | PHP + MySQL |
   | [PHP-Restaurante](https://github.com/luiizsilverio/php-restaurante) | HTML + PHP |
-  | [PHP-CRUD](https://github.com/luiizsilverio/php-crud) | HTML + PHP |
   | [Splash](https://github.com/luiizsilverio/habitual-splash) | HTML + CSS + Javascript |
   | [My-Decor](https://github.com/luiizsilverio/my-decor) | HTML + CSS |
 
