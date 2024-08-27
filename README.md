@@ -243,7 +243,7 @@
 </details>             
 
 <details open>
-  <summary><h3>✨ Outros</h3></summary>
+  <summary><h3>✨ PHP e Outros</h3></summary>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -251,6 +251,7 @@
   | [TS-Negociacoes](https://github.com/luiizsilverio/typescript-1) | Typescript + MVC + O.O |
   | [PHP-Events 🎎](https://github.com/luiizsilverio/php-events) | PHP + Laravel + MVC + JetStream |
   | [PHP-Blog 💬](https://github.com/luiizsilverio/php-blog) | PHP + MySQL + PDO + Twig + MVC |
+  | [My-Laravel](https://github.com/luiizsilverio/my-laravel) | PHP + Laravel + MVC + Breeze |
   | [PHP-EAD 🧑🏽‍💻](https://github.com/luiizsilverio/php-ead) | PHP + MySQL |
   | [PHP-Restaurante](https://github.com/luiizsilverio/php-restaurante) | HTML + PHP |
   | [Amazon-clone](https://github.com/luiizsilverio/amazon-clone) | HTML + TailwindCSS |
