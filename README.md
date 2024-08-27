@@ -243,7 +243,7 @@
 </details>             
 
 <details open>
-  <summary><h3>✨ PHP e Outros</h3></summary>
+  <summary><h3>🐘 PHP e Outros</h3></summary>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
