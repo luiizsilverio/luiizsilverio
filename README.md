@@ -253,7 +253,7 @@
   | [PHP-Blog 💬](https://github.com/luiizsilverio/php-blog) | PHP + MySQL + PDO + Twig + MVC |
   | [My-Laravel](https://github.com/luiizsilverio/my-laravel) | PHP + Laravel + MVC + Breeze |
   | [PHP-EAD 🧑🏽‍💻](https://github.com/luiizsilverio/php-ead) | PHP + MySQL |
-  | [PHP-Restaurante](https://github.com/luiizsilverio/php-restaurante) | HTML + PHP |
+  | [PHP-Restaurante](https://github.com/luiizsilverio/php-restaurante) | PHP + HTML |
   | [Amazon-clone](https://github.com/luiizsilverio/amazon-clone) | HTML + TailwindCSS |
   | [Facebook-clone](https://github.com/luiizsilverio/facebook-clone) | HTML + TailwindCSS |
   | [Spotify-clone](https://github.com/luiizsilverio/js-spotify) | HTML + TailwindCSS |
