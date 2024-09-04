@@ -119,6 +119,7 @@
   | [My-Shopee 🛒](https://github.com/luiizsilverio/my-shopee) | React + Node + Mongoose + Redux-Toolkit |
   | [My-Magalu 👜](https://github.com/luiizsilverio/my-magalu) | React + Node + Stripe + Bulma |
   | [My-Movies 🎥](https://github.com/luiizsilverio/my-movies) | React + Redux-Toolkit + React-Slick |
+  | [Dev-Motors 🚔](https://github.com/luiizsilverio/devmotors) | React + Next + Sass + Cosmic |
   | [NLW-Widget 🐛](https://github.com/luiizsilverio/nlw-widget) | React + Vite + Tailwind |
   | [Alurakut](https://github.com/luiizsilverio/alurakut) | Javascript + React + Next + JWT |
   | [Aluracord](https://github.com/luiizsilverio/aluracord) | Javascript + React + Next + Supabase |
