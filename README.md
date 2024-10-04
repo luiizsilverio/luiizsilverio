@@ -104,6 +104,7 @@
   | [NLW-Pocket 🚀](https://github.com/luiizsilverio/nlw-pocket) | Node + Fastify + DrizzleORM / React + Tailwind + Radix-UI + TanStack Query |
   | [My-Books 📚](https://github.com/luiizsilverio/my-news) | Node + Mongoose + Multer / React + Vite + Bootstrap |
   | [Money 💰](https://github.com/luiizsilverio/money) | Node + Prisma + SQLite / React / React Native + Axios |
+  | [Gam3r 🎮](https://github.com/luiizsilverio/gam3r.store) | Node + NestJS + Prisma + Next + Tailwind |
   
 </details>
 
